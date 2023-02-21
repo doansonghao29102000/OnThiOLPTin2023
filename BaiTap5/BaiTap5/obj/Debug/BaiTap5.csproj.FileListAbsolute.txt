@@ -1,0 +1,9 @@
+E:\C#\2023\14a12\LapTrinhWinForm\BaiTap5\bin\Debug\BaiTap5.exe.config
+E:\C#\2023\14a12\LapTrinhWinForm\BaiTap5\bin\Debug\BaiTap5.exe
+E:\C#\2023\14a12\LapTrinhWinForm\BaiTap5\bin\Debug\BaiTap5.pdb
+E:\C#\2023\14a12\LapTrinhWinForm\BaiTap5\obj\Debug\BaiTap5.Form1.resources
+E:\C#\2023\14a12\LapTrinhWinForm\BaiTap5\obj\Debug\BaiTap5.Properties.Resources.resources
+E:\C#\2023\14a12\LapTrinhWinForm\BaiTap5\obj\Debug\BaiTap5.csproj.GenerateResource.Cache
+E:\C#\2023\14a12\LapTrinhWinForm\BaiTap5\obj\Debug\BaiTap5.exe
+E:\C#\2023\14a12\LapTrinhWinForm\BaiTap5\obj\Debug\BaiTap5.pdb
+E:\C#\2023\14a12\LapTrinhWinForm\BaiTap5\obj\Debug\BaiTap5.csprojResolveAssemblyReference.cache

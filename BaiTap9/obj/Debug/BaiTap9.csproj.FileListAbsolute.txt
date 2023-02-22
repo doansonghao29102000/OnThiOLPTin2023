@@ -1,0 +1,10 @@
+E:\C#\2023\14a12\LapTrinhWinForm\BaiTap9\bin\Debug\BaiTap9.exe.config
+E:\C#\2023\14a12\LapTrinhWinForm\BaiTap9\bin\Debug\BaiTap9.exe
+E:\C#\2023\14a12\LapTrinhWinForm\BaiTap9\bin\Debug\BaiTap9.pdb
+E:\C#\2023\14a12\LapTrinhWinForm\BaiTap9\obj\Debug\BaiTap9.csprojResolveAssemblyReference.cache
+E:\C#\2023\14a12\LapTrinhWinForm\BaiTap9\obj\Debug\BaiTap9.Form1.resources
+E:\C#\2023\14a12\LapTrinhWinForm\BaiTap9\obj\Debug\BaiTap9.Form2.resources
+E:\C#\2023\14a12\LapTrinhWinForm\BaiTap9\obj\Debug\BaiTap9.Properties.Resources.resources
+E:\C#\2023\14a12\LapTrinhWinForm\BaiTap9\obj\Debug\BaiTap9.csproj.GenerateResource.Cache
+E:\C#\2023\14a12\LapTrinhWinForm\BaiTap9\obj\Debug\BaiTap9.exe
+E:\C#\2023\14a12\LapTrinhWinForm\BaiTap9\obj\Debug\BaiTap9.pdb

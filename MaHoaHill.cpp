@@ -46,7 +46,7 @@ bool ktra(string s){
 }
 bool ktraXauHopLe(string s){
 	for(int i = 0; i < s.length(); i++){
-		if(s[i] < 32 || s[i] > 126) return false;
+		if(s[i] < 0 || s[i] > 126 || s[i] == 63) return false;
 	}
 	return true;
 }
@@ -192,6 +192,7 @@ int main(){
 	    		k = toInteger(siz);
 	    		break;
 	    	}
+	    	
 		}
 		matrix MT(k,k);
 		string br;
@@ -230,6 +231,7 @@ int main(){
 		    if(sel == 1){
 				kt = 1;
 				int x;
+				srand(time(0));
 				for(int i = 0; i < k; i++){
 					for(int j = 0; j < k; j++){
 						x = rand()%96 + 1;
@@ -399,3 +401,11 @@ int main(){
 	}
 	return 0;	
 }
+/*
+map<char, int> mp;
+	for(int i = 0; i < 97; i++){
+		mp[arrchar[i]] = i;
+	}
+	cout << char(10) << " " << endl;
+	cout << mp[char(10)] << " ";
+	return 0;*/
